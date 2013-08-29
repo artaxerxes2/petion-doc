@@ -1,0 +1,421 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass book
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Complete Guide for 
+\begin_inset Quotes els
+\end_inset
+
+5, rue Pétion
+\begin_inset Quotes ers
+\end_inset
+
+ Guests
+\end_layout
+
+\begin_layout Author
+aurelien.marchand@gmail.com
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Useful Information
+\end_layout
+
+\begin_layout Chapter
+\begin_inset Quotes els
+\end_inset
+
+5, rue Pétion
+\begin_inset Quotes ers
+\end_inset
+
+ Apartments
+\end_layout
+
+\begin_layout Section
+Main Floor Bachelor
+\end_layout
+
+\begin_layout Subsection
+Description
+\end_layout
+
+\begin_layout Subsection
+General Availability
+\end_layout
+
+\begin_layout Subsection
+Pricing
+\end_layout
+
+\begin_layout Section
+Upstairs Bachelor
+\end_layout
+
+\begin_layout Subsection
+Description
+\end_layout
+
+\begin_layout Subsection
+General Availability
+\end_layout
+
+\begin_layout Subsection
+Pricing
+\end_layout
+
+\begin_layout Section
+Upstairs Two-Bedroom
+\end_layout
+
+\begin_layout Subsection
+Description
+\end_layout
+
+\begin_layout Subsection
+General Availability
+\end_layout
+
+\begin_layout Subsection
+Pricing
+\end_layout
+
+\begin_layout Section
+Other Apartments
+\end_layout
+
+\begin_layout Subsection
+Description
+\end_layout
+
+\begin_layout Subsection
+General Availability
+\end_layout
+
+\begin_layout Subsection
+Pricing
+\end_layout
+
+\begin_layout Chapter
+Paris
+\end_layout
+
+\begin_layout Section
+Transportation
+\end_layout
+
+\begin_layout Subsection
+Métro
+\end_layout
+
+\begin_layout Subsection
+RER
+\end_layout
+
+\begin_layout Subsection
+Train
+\end_layout
+
+\begin_layout Subsection
+Taxi
+\end_layout
+
+\begin_layout Subsection
+Bike
+\end_layout
+
+\begin_layout Subsection
+Car
+\end_layout
+
+\begin_layout Subsection
+Legs
+\end_layout
+
+\begin_layout Section
+Monuments
+\end_layout
+
+\begin_layout Subsection
+Eiffel Tower
+\end_layout
+
+\begin_layout Subsection
+Champs de Mars
+\end_layout
+
+\begin_layout Subsection
+Trocadéro
+\end_layout
+
+\begin_layout Subsection
+Champs-Elysées / Arc de Triomphe / Étoile
+\end_layout
+
+\begin_layout Subsection
+Grand Palais
+\end_layout
+
+\begin_layout Subsection
+Opéra Garnier
+\end_layout
+
+\begin_layout Subsection
+Notre-Dame
+\end_layout
+
+\begin_layout Section
+Museums
+\end_layout
+
+\begin_layout Subsection
+Le Louvre
+\end_layout
+
+\begin_layout Subsection
+Musée d'Orsay
+\end_layout
+
+\begin_layout Section
+Neighbourhoods
+\end_layout
+
+\begin_layout Subsection
+Montmartre
+\end_layout
+
+\begin_layout Subsection
+Quartier Latin
+\end_layout
+
+\begin_layout Subsection
+Beaubourg
+\end_layout
+
+\begin_layout Subsection
+Les Halles
+\end_layout
+
+\begin_layout Subsection
+Montparnasse
+\end_layout
+
+\begin_layout Section
+Shopping
+\end_layout
+
+\begin_layout Subsection
+Luxury
+\end_layout
+
+\begin_layout Subsection
+Prêt-à-porter
+\end_layout
+
+\begin_layout Subsection
+Wholesalers
+\end_layout
+
+\begin_layout Section
+Cuisine
+\end_layout
+
+\begin_layout Subsection
+Brasserie
+\end_layout
+
+\begin_layout Subsection
+Café
+\end_layout
+
+\begin_layout Subsection
+Restaurant
+\end_layout
+
+\begin_layout Subsection
+Groceries
+\end_layout
+
+\begin_layout Subsection
+Wine and Cheese
+\end_layout
+
+\begin_layout Chapter
+Outside of Paris
+\end_layout
+
+\begin_layout Section
+Suburbs
+\end_layout
+
+\begin_layout Subsection
+Château de Versailles
+\end_layout
+
+\begin_layout Subsection
+Eurodisney
+\end_layout
+
+\begin_layout Section
+Province
+\end_layout
+
+\begin_layout Subsection
+Châteaux de la Loire
+\end_layout
+
+\begin_layout Subsection
+Mont St-Michel
+\end_layout
+
+\begin_layout Subsection
+Champagne-Ardennes
+\end_layout
+
+\begin_layout Section
+Europe
+\end_layout
+
+\begin_layout Subsection
+United Kingdom
+\end_layout
+
+\begin_layout Subsection
+Germany
+\end_layout
+
+\begin_layout Subsection
+Italy
+\end_layout
+
+\begin_layout Subsection
+Spain
+\end_layout
+
+\begin_layout Subsection
+Belgium
+\end_layout
+
+\begin_layout Subsection
+Croatia
+\end_layout
+
+\begin_layout Part
+Before You Leave
+\end_layout
+
+\begin_layout Chapter
+Budgeting
+\end_layout
+
+\begin_layout Section
+One-Week Stay
+\end_layout
+
+\begin_layout Section
+Two-Week Stay
+\end_layout
+
+\begin_layout Section
+Three-Week Stay
+\end_layout
+
+\begin_layout Section
+One Month Stay
+\end_layout
+
+\begin_layout Chapter
+Booking an Apartment
+\end_layout
+
+\begin_layout Chapter
+Booking a Plane Ticket
+\end_layout
+
+\begin_layout Part
+While in Paris
+\end_layout
+
+\begin_layout Part
+After Your Return
+\end_layout
+
+\begin_layout Chapter
+\start_of_appendix
+TL;DR version
+\end_layout
+
+\begin_layout LyX-Code
+
+\end_layout
+
+\end_body
+\end_document
